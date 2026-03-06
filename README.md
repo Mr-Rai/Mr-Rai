@@ -3,11 +3,7 @@
 
 ---
 
-5 years building production-grade data and ML systems on real industrial data.
-
-At **Capgemini Engineering**, I built an end-to-end automated diagnostic platform for **Wabtec Corporation** — processing locomotive performance artifacts for fleets operated by CSX and Union Pacific. The system replaced a 2–3 engineer-day manual process with a fully automated 3–7 minute pipeline across 9 locomotive types, detecting faults at sub-second granularity that manual review consistently missed.
-
-Currently completing an **M.Tech in Data Science & Engineering at BITS Pilani** and building out the ML layer I never got to build at Wabtec — starting with Li-ion battery RUL estimation using physics-informed features, TCN-based sequence modeling, and uncertainty-quantified predictions.
+Data Scientist with 5 years of experience building end-to-end machine learning solutions on large-scale structured and time-series datasets. Strong expertise in predictive modeling, classification, anomaly detection, and feature engineering using Python and SQL. Experienced in translating business rules and operational data into supervised learning frameworks and production-ready ML workflows.
 
 ---
 
