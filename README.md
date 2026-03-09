@@ -2,9 +2,7 @@
 ### Data Scientist · Industrial AI · Time-Series & Predictive Analytics
 
 ---
-
-Data Scientist with 5 years of experience building end-to-end machine learning solutions on large-scale structured and time-series datasets. Strong expertise in predictive modeling, classification, anomaly detection, and feature engineering using Python and SQL. Experienced in translating business rules and operational data into supervised learning frameworks and production-ready ML workflows.
-
+Data Scientist with 5 years of experience making sense of complex, high-frequency industrial sensor data — finding patterns, building models, and delivering systems that drive real operational decisions. Designed a locomotive fault detection platform for a Fortune 500 railway client that turned domain expertise into scalable automated intelligence. M.Tech in Data Science, BITS Pilani (2025).
 ---
 
 ### What I work with
